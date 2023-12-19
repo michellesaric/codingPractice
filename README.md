@@ -1,2 +1,1 @@
-# codingPractice
-A repo for everyday coding practice
+## Advent of Coding 2023
